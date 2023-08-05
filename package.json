@@ -2,6 +2,7 @@
   "name": "bildbok",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@8.6.11",
   "scripts": {
     "build": "astro build",
     "check": "astro check",
