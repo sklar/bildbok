@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.validate": ["astro", "javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "html.format.enable": false
+}

@@ -1,4 +1,12 @@
 {
-  "recommendations": ["astro-build.astro-vscode"],
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "github.vscode-pull-request-github",
+    "wayou.vscode-todo-highlight",
+    "yoavbls.pretty-ts-errors"
+  ],
   "unwantedRecommendations": []
 }
