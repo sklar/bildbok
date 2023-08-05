@@ -5,6 +5,7 @@
   "packageManager": "pnpm@8.6.11",
   "scripts": {
     "build": "astro build",
+    "changeset": "changeset",
     "check": "astro check",
     "clean:modules": "find . -name node_modules -type d -prune -print -exec rm -rf {} \\;",
     "dev": "astro dev",
@@ -19,6 +20,8 @@
     "astro": "^2.10.1"
   },
   "devDependencies": {
+    "@changesets/changelog-github": "^0.4.8",
+    "@changesets/cli": "^2.26.2",
     "@trivago/prettier-plugin-sort-imports": "^4.2.0",
     "@typescript-eslint/eslint-plugin": "^6.2.1",
     "@typescript-eslint/parser": "^6.2.1",
