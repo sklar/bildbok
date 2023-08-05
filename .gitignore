@@ -1,0 +1,22 @@
+# Ignored files
+# @see https://git-scm.com/docs/gitignore
+
+# astro
+.astro
+
+# build
+dist
+
+# environment variables
+.env
+.env.production
+
+# dependencies
+node_modules
+
+# logs
+*-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
